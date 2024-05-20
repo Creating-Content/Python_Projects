@@ -10,7 +10,6 @@ Author- ARKADIP GHOSH
 <br>
 
 # Random Password Generator:
-<br>
 Developed an advanced password generator with a graphical user interface (GUI)
 using Tkinter or PyQt. Enhanced it by including options for password complexity, adherenced to
 security rules, and clipboard integration for easy copying.
@@ -18,7 +17,6 @@ security rules, and clipboard integration for easy copying.
 <br>
 
 # Voice assistant graphic based advanced model:
-<br>
 Developed an advanced voice assistant with natural language processing
 capabilities. Enabled it to perform tasks such as sending emails, setting reminders, providing
 weather updates, controlling smart home devices.
@@ -26,7 +24,6 @@ weather updates, controlling smart home devices.
 <br>
 
 # Weather App:
-<br>
 Developed a graphical weather app with a user-friendly interface (GUI) using
 libraries like Tkinter or PyQt. Enabled users to input their location or use GPS for automatic
 detection. Provided detailed weather data, including current conditions, hourly and daily
