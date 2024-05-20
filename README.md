@@ -1,1 +1,2 @@
-# OasisInfobyte_Tasks
+# Python_Projects for college 
+Author- ARKADIP GHOSH
