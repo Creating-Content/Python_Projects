@@ -2,7 +2,6 @@
 Author- ARKADIP GHOSH
 
 # BMI Calculator Advanced:
-<br>
    Developed a graphical BMI calculator with a user-friendly interface (GUI) using
    libraries like Tkinter or PyQt. Allowed users to input weight and height, calculate BMI, and
    visualize the result. Enabled data storage for multiple users, historical data viewing, and BMI
