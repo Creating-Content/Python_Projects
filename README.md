@@ -1,6 +1,7 @@
 # Python_Projects for college 
 Author- ARKADIP GHOSH
-
+<br>
+<br>
 # BMI Calculator Advanced:
    Developed a graphical BMI calculator with a user-friendly interface (GUI) using
    libraries like Tkinter or PyQt. Allowed users to input weight and height, calculate BMI, and
